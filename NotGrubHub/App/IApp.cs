@@ -1,4 +1,4 @@
-﻿namespace NotGrubHub.Models
+﻿namespace NotGrubHub
 {
     public interface IApp
     {

@@ -1,7 +1,8 @@
 ﻿using NotGrubHub.Factories;
+using NotGrubHub.Models;
 using static System.Console;
 
-namespace NotGrubHub.Models
+namespace NotGrubHub
 {
     public class App : IApp
     {
